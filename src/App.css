@@ -3,30 +3,35 @@ body{
   justify-content: center;
   text-align: center;
 }
-form{
+form {
   border: thin solid #ddd;
   padding: 2rem;
-  margin-bottom: 2rem;
+  margin-bottom: 2rem
 }
-.header{
+
+.header {
   text-align: center;
   font-size: 1.5rem;
   margin-bottom: 1rem;
 }
-.github-profile{
+
+.github-profile {
   margin: 1rem;
 }
-.github-profile img{
+.github-profile img {
   width: 75px;
 }
-.github-profile info{
+.github-profile info {
   display: inline-block;
   margin-left: 12px;
 }
-.github-profile info{
-  font-size: 1.25rem;
+.github-profile info {
+  font-size: 1.25 rem;
   font-weight: bold;
 }
+
+
+
 
 
 /* .App {
